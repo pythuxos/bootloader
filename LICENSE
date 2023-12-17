@@ -11,18 +11,14 @@ sublicense, and/or sell copies of the Software, and to permit persons to whom th
 furnished to do so, subject to the following conditions:
 
 - The above copyright notice and this permission notice shall be included in all copies or
-substantial portions of the Software.
-- The Software, or any modified version of the Software, must retain the same name and version
-number as the original Software, unless explicitly authorized by the Pythux OS Project.
-- The Software, or any modified version of the Software, must be compatible with the GNU General
-Public License version 3 or later, and must not impose any additional restrictions or conditions on
-the recipients of the Software.
-- The Software, or any modified version of the Software, must include a prominent notice stating
-that it is based on or derived from the Pythux OS Project, and must provide a link to the Pythux OS
-Project website or source code repository.
+substantial portions of any distribution of the Source Code of the Software, whether modified or
+not.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
-NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
-OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of any Binary distributions of the Software, whether modified or not.
+
+- The Software is provided "as is", without warranty of any kind, express or implied, including but
+not limited to the warranties of merchantability, fitness for a particular purpose and
+noninfringement. In no event shall the authors or copyright holders be liable for any claim,
+damages or other liability, whether in an action of contract, harm or otherwise, arising from, out
+of or in connection with the Software, or the use or other dealings in the Software.
